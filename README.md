@@ -15,9 +15,3 @@ A Python project that scrapes product details from Amazon, including product tit
 - **Python** (BeautifulSoup, Requests, CSV, Datetime, smtplib)
 - **BeautifulSoup4** for HTML parsing.
 - **Requests** for fetching page content.
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/amazon-web-scraper.git
-   cd amazon-web-scraper
